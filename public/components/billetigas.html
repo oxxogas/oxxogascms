@@ -1,0 +1,28 @@
+<h2>Mis Billetigas:</h2>
+<ol>
+	<li ng-repeat="promocion in promociones">
+		<article>
+			<h3>{{promocion.nombre}}</h3>
+			<ul>
+				<li>
+					<p>Nombre:</p>
+					<input ng-model="promocion.nombre"></input>
+				</li>
+				<li>
+					<p>Promoción:</p>
+					<input ng-model="promocion.promocion"></input>
+				</li>
+				<li>
+					<p>Detalles:</p>
+					<textarea ng-model="promocion.validez" rows="6" cols="50"></textarea>
+				</li>
+				<li>
+					<p>Imagen:</p>
+					<input ng-model="promocion.imagen"></input>
+				</li>
+			</ul>
+		</article>
+	</li>
+</ol>
+<button ng-click="addNew()">Agregar Promoción</button>
+<button ng-click="save()">Guardar Cambios</button>

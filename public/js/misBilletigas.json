@@ -1,0 +1,29 @@
+[
+    {
+        "nombre": "Promoción 1",
+        "promocion": "CINE $28",
+        "validez": "* OXXO GAS te invita al cine con 2 billetigas + $28= 1 Boleto OXXO GAS. Válidos en todas las estaciones OXXO GAS.",
+        "imagen": "1.jpg"
+    },
+    {
+        "nombre": "Promoción 2 / Región Occidente",
+        "promocion": "BIOPARQUE",
+        "linea1": "3 billetigas + $109 = 1 boleto para bioparque. No incluye El Ártico, Tierra de Dinosaurios, Juegos de Destreza y Rio Loko",
+        "validez": "*Promoción válida en: Monterrey y su área metropolitana. Vigencia 18 de Septiembre. Consulta el horario del parque en www.bioparque.com.mx",
+        "imagen": "2.jpg"
+    },
+    {
+        "nombre": "Promoción3/RegiónNorte",
+        "promocion": "Vajillas Trioval",
+        "linea1": "3 billetigas + $79 = Vajilla Trioval (plato hondo plato plano y vaso de vidrio)",
+        "validez": "*Promoción válida a nivel nacional. Vigencia 31 de Julio",
+        "imagen": "3.jpg"
+    },
+    {
+        "nombre": "Promoción4/RegiónNorte",
+        "promocion": "Mikels",
+        "linea1": "Busca la herramienta disponible en tu ciudad",
+        "validez": "*No es válido en Coahuila. Vigencia 31 de Julio",
+        "imagen": "4.jpg"
+    }
+]

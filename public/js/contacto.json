@@ -1,0 +1,52 @@
+[
+    {
+        "id": "Coahuila",
+		"correo1":"Ilse.quesadas@oxxo.com"
+    },
+    {
+        "id": "Nuevo León",
+		"correo1":"alma.morales@oxxo.com",
+		"correo2":"christian.alvarez@oxxo.com"
+    },
+    {
+        "id": "Jalisco",
+		"correo1":"ruben.gonzalez@oxxo.com",
+		"correo2":"maria.palaciosv@oxxo.com"
+    },
+    {
+        "id": "Querétaro",
+		"correo1":"ruben.gonzalez@oxxo.com",
+		"correo2":"maria.palaciosv@oxxo.com"
+    },
+    {
+        "id": "Guanajuato",
+		"correo1":"ruben.gonzalez@oxxo.com",
+		"correo2":"maria.palaciosv@oxxo.com"
+    },
+    {
+        "id": "Aguascalientes",
+		"correo1":"ruben.gonzalez@oxxo.com",
+		"correo2":"maria.palaciosv@oxxo.com"
+    },
+    {
+        "id": "SLP",
+		"correo1":"ruben.gonzalez@oxxo.com",
+		"correo2":"maria.palaciosv@oxxo.com"
+    },
+    {
+        "id": "Quintana Roo",
+		"correo1":"francisco.bonilla@oxxo.com"
+    },
+    {
+        "id": "Yucatán",
+		"correo1":"francisco.bonilla@oxxo.com"
+    },
+    {
+        "id": "Jalisco ",
+		"correo1":"francisco.bonilla@oxxo.com"
+    },
+    {
+        "id": "Michoacán",
+		"correo1":"francisco.bonilla@oxxo.com"
+    }
+]

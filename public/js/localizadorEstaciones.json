@@ -1,0 +1,1954 @@
+[
+    {
+        "PLAZA": "Aguascalientes",
+        "MUNICIPIO": "Aguascalientes",
+        "NOMBRE": "Convención",
+        "DIRECCION": "Av. Convención No. 1402 Gomez, Aguascalientes, Ags.",
+        "LAT": -102.3136638,
+        "LNG": 21.8856843
+    },
+    {
+        "PLAZA": "Aguascalientes",
+        "MUNICIPIO": "Aguascalientes",
+        "NOMBRE": "Jardines",
+        "DIRECCION": "Blvd. Jose Maria Chavez 1108, Fracc. Lindavista",
+        "LAT": -102.3136638,
+        "LNG": 21.8856843
+    },
+    {
+        "PLAZA": "Aguascalientes",
+        "MUNICIPIO": "Aguascalientes",
+        "NOMBRE": "Zacatecas",
+        "DIRECCION": "Av. Aguascalientes Nte. No. 724, Col. Centro comercial Agropecuario, Aguascalientes, Ags.",
+        "LAT": -102.173896,
+        "LNG": 21.52031
+    },
+    {
+        "PLAZA": "Aguascalientes",
+        "MUNICIPIO": "Aguascalientes",
+        "NOMBRE": "Asunción",
+        "DIRECCION": "Av. Aguascalientes No. 3402 Sur, Col. Prados del Sur, Aguascalientes, Ags.",
+        "LAT": -102.2994381,
+        "LNG": 21.8594586
+    },
+    {
+        "PLAZA": "Aguascalientes",
+        "MUNICIPIO": "Aguascalientes",
+        "NOMBRE": "Nacozari",
+        "DIRECCION": "Av. De la convención y Heroes de Nacozari, Aguascalientes , Aguascalientes",
+        "LAT": -102.2890323,
+        "LNG": 21.9017112
+    },
+    {
+        "PLAZA": "Aguascalientes",
+        "MUNICIPIO": "Aguascalientes",
+        "NOMBRE": "Del Valle",
+        "DIRECCION": "Roma No. 242. Col. Del Valle. Aguascalientes.",
+        "LAT": -102.318491,
+        "LNG": 21.872068
+    },
+    {
+        "PLAZA": "Aguascalientes",
+        "MUNICIPIO": "Aguascalientes",
+        "NOMBRE": "Bosques del Prado",
+        "DIRECCION": "Av. Aguascalientes Nte.999,Bosques Del Prado Oriente,Aguascalientes,Aguascalientes",
+        "LAT": -102.2817493,
+        "LNG": 21.9144406
+    },
+    {
+        "PLAZA": "Aguascalientes",
+        "MUNICIPIO": "Jesus María",
+        "NOMBRE": "Jesus María",
+        "DIRECCION": "Boulevard Alejandro de la Cruz Saucedo No. 1300, Col. El Barreno, Jesus Maria, Aguascalientes.",
+        "LAT": -102.3361484,
+        "LNG": 21.9843743
+    },
+    {
+        "PLAZA": "Aguascalientes",
+        "MUNICIPIO": "Aguascalientes",
+        "NOMBRE": "Giacinti",
+        "DIRECCION": "Blvd.  Zacatecas No 304,  Fraccionamiento el plateado Ags",
+        "LAT": -102.2925203,
+        "LNG": 21.906384
+    },
+    {
+        "PLAZA": "Aguascalientes",
+        "MUNICIPIO": "Aguascalientes",
+        "NOMBRE": "Carr. Mexico",
+        "DIRECCION": "Carretera Panamericana Sur km. 121 , Aguascalientes, Ags.",
+        "LAT": -102.2857587,
+        "LNG": 21.8139595
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "León",
+        "NOMBRE": "Obelisco",
+        "DIRECCION": "BLVD.VICENTE VALTIERRA #2602,COL.EL COECILLO,CP. 37390",
+        "LAT": -101.392928,
+        "LNG": 21.074697
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "Salamanca",
+        "NOMBRE": "Cananea",
+        "DIRECCION": "BLVD.J.M CLOUTHIER #1140,COL.PREDIO DEL MONTE, C.P.36720",
+        "LAT": -101.110236,
+        "LNG": 20.353317
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "Salamanca",
+        "NOMBRE": "Tenixtepec",
+        "DIRECCION": "CALLE HEROES DE CANANEA #101, COL. LOS ALAMOS C.P.36750",
+        "LAT": -101.111032,
+        "LNG": 20.335791
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "León",
+        "NOMBRE": "Alonso Espino",
+        "DIRECCION": "BLVD.TORRES LANDA #101,COL.INDUSTRIAL JUAREZ CP. 37457",
+        "LAT": -101.412137,
+        "LNG": 21.061085
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "León",
+        "NOMBRE": "La Cima",
+        "DIRECCION": "BLVD.MARIANO ESCOBEDO #4804,COL.SATELITE",
+        "LAT": -101.431988,
+        "LNG": 20.071872
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "Silao",
+        "NOMBRE": "Cubilete",
+        "DIRECCION": "PROL.5 DE MAYO #99,ZONA CENTRO C.P.36100",
+        "LAT": -101.250864,
+        "LNG": 20.563609
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "Silao",
+        "NOMBRE": "Central",
+        "DIRECCION": "LUIS H.DUCOING #103,ZONA CENTRO C.P. 36100",
+        "LAT": -101.252938,
+        "LNG": 20.571546
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "Guanajuato",
+        "NOMBRE": "Monca",
+        "DIRECCION": "CARRETERA IRAPUATO-LEON KM 23.920 SAN JOSE DE LLANOS C.P.36266",
+        "LAT": -101.185489,
+        "LNG": 20.503205
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "Cueramaro",
+        "NOMBRE": "Cueramaro",
+        "DIRECCION": "BLVD.PROLONGACION JUAREZ 312,COL.CENTRO,CP.36960",
+        "LAT": -101.400485,
+        "LNG": 20.371039
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "Romita",
+        "NOMBRE": "Romita",
+        "DIRECCION": "BLVD.SALIDA A CUERAMARO #45,COL.PRIVADA DE REYES C.P. 36200",
+        "LAT": -101.313665,
+        "LNG": 20.522026
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "Silao",
+        "NOMBRE": "Feria",
+        "DIRECCION": "ALVARO OBREGON #194, COL. CENTRO C.P 36100",
+        "LAT": -101.260735,
+        "LNG": 20.570575
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "Queretaro",
+        "NOMBRE": "Parador Santa Rosa",
+        "DIRECCION": "CARRETERA QUERETARO-SAN LUIS POTOSI KM.22+500 DEL.SANTA ROSA JAUREGUI,C.P. 76220",
+        "LAT": -100.264733,
+        "LNG": 20.455693
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "León",
+        "NOMBRE": "Villamagna",
+        "DIRECCION": "BLVD.JOSE MARIA MORELOS #213 ESQ.VILLAMAGNA COL.EL PELUCHAN",
+        "LAT": -101.394043,
+        "LNG": 21.102535
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "Queretaro",
+        "NOMBRE": "Euripides",
+        "DIRECCION": "AV.CERRO DEL SOMBRERETE #.1130 COL PUERTA DE BELEN",
+        "LAT": -100.24557,
+        "LNG": 20.383308
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "Queretaro",
+        "NOMBRE": "Bernardo Quintana",
+        "DIRECCION": "BLVD.BERNARDO QUINTANA #551 FRACC.LA LUNA DEL.FELIPE CARRILLO PUERTO",
+        "LAT": -100.27025,
+        "LNG": 20.365976
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "Leon",
+        "NOMBRE": "La Joya",
+        "DIRECCION": "BLVD.SAN JUAN BOSCO ESQ.BLVD.ARISTOTELES #101,COL.EJIDO LA JOYA C.P.37358",
+        "LAT": -101.433155,
+        "LNG": 20.081951
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "León",
+        "NOMBRE": "Torres Landa",
+        "DIRECCION": "Blvd. Juan Jose Torres Landa No. 901,Prados Verdes,Leon,Guanajuato",
+        "LAT": -101.671754,
+        "LNG": 21.100217
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "León ",
+        "NOMBRE": "Plaza Mayor",
+        "DIRECCION": "Blvd. Manuel J. Clouthier No. 208 Y Cerro Gordo,Hda. Cerro Gordo,Leon,Guanajuato",
+        "LAT": -101.6930691,
+        "LNG": 21.163026
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "León ",
+        "NOMBRE": "Hidalgo",
+        "DIRECCION": "Blvd. Miguel Hidalgo No. 1602 Esq. Jose Ma. Belauz,Villa Insurgentes,Leon,Guanajuato",
+        "LAT": -101.6710685,
+        "LNG": 21.1469704
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "León",
+        "NOMBRE": "Milenium",
+        "DIRECCION": "Blvd. Aeropuerto Km. 3.5 No. 860,San Jose El Alto,Leon,Guanajuato",
+        "LAT": -101.608123,
+        "LNG": 21.0799617
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "León ",
+        "NOMBRE": "Centro Max",
+        "DIRECCION": "Blvd. Juan Jose Torres Landa S/N Esq. Colina Dorada,Colinas De San Isidro,Leon,Guanajuato",
+        "LAT": -101.6340012,
+        "LNG": 21.096556
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "León ",
+        "NOMBRE": "Galerías",
+        "DIRECCION": "Blvd, Alonso De Torres Esq. Emilio Portes Gil S/N,San Jose Del Consuelo,Leon,Guanajuato",
+        "LAT": -101.6477561,
+        "LNG": 21.1442795
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "León ",
+        "NOMBRE": "Valtierra",
+        "DIRECCION": "Blvd. La Luz esq. Blvd Vicente Valtierra No 4402,Brisas del Carmen,León,Guanajuato",
+        "LAT": -101.6017092,
+        "LNG": 21.1103554
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "León ",
+        "NOMBRE": "Madrazo",
+        "DIRECCION": "Blvd Antonio Madrazo esq Blvd Jose Maria Morelos 1501,San Jose del Consuelo, Leon, Guanajuato",
+        "LAT": -101.6476281,
+        "LNG": 21.162562
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "Silao",
+        "NOMBRE": "Mexico Plaza",
+        "DIRECCION": "Carretera federal #45 km 156+400 LEON-SILAO  COL. NVO MEXICO SILAO, GTO",
+        "LAT": -101.4769286,
+        "LNG": 20.9791372
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "León ",
+        "NOMBRE": "Gamma",
+        "DIRECCION": "blvd delta 202 A Col Industrial Delta Leon, Guanajuato",
+        "LAT": -101.6227769,
+        "LNG": 21.0882706
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "León ",
+        "NOMBRE": "Plaza San Miguel",
+        "DIRECCION": "Blvd  Jose Torres Landa, Esq. con Calle San Marcial ",
+        "LAT": -101.6751268,
+        "LNG": 21.0999223
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "León ",
+        "NOMBRE": "Kennedy",
+        "DIRECCION": "Blvd Miguel Cervantes Esq. con calle San Marcial",
+        "LAT": -101.7102937,
+        "LNG": 21.1130236
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "León ",
+        "NOMBRE": "La Pulga",
+        "DIRECCION": "Blvd Juan Jose Torres Landa No. 2508 Col. Buenos Aires, Leon Guanajuato",
+        "LAT": -101.670018,
+        "LNG": 21.0981912
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "León ",
+        "NOMBRE": "Quiroga",
+        "DIRECCION": "Blvd Antonio Madrazo No. 2302 Fracc. Villas Vasco de Quiroga, Leon Guanajuato",
+        "LAT": -101.6556818,
+        "LNG": 21.1481865
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "León ",
+        "NOMBRE": "San Vicente",
+        "DIRECCION": "Blvd Vicente Valtierra No. 3708 Col. San Pedro de los Hernandez, Leon Guanajuato",
+        "LAT": -101.6439393,
+        "LNG": 21.1277984
+    },
+    {
+        "PLAZA": "San Luis Potosi",
+        "MUNICIPIO": "San Luis Potosí",
+        "NOMBRE": "Muñoz",
+        "DIRECCION": "Prol. Muñoz No. 205 , Col. Villa Campestre, Cp. 78190, San Luis Potosi, S.L.P.",
+        "LAT": -101.0002181,
+        "LNG": 22.1605542
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "León ",
+        "NOMBRE": "Libramiento Clouthier",
+        "DIRECCION": "Blvd. Manuel J. Clouthier No. 702 Fracc. Cerro Gordo, Leon Guanajuato",
+        "LAT": -101.6934769,
+        "LNG": 21.1679343
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "León ",
+        "NOMBRE": "Pinos",
+        "DIRECCION": "Blvd. Delta No. 102, Col. San Jose de Santa Julia, Leon Guanajuato",
+        "LAT": -101.618121,
+        "LNG": 21.0920926
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "Silao",
+        "NOMBRE": "Sopeña",
+        "DIRECCION": "BLVD. EMILIANO ZAPATA NUM. 4 LORENZO MOSQUEDA 36000",
+        "LAT": -101.424723,
+        "LNG": 20.9585676
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "Irapuato",
+        "NOMBRE": "Fresas",
+        "DIRECCION": "BLVD. SAN ROQUE # 1139 FRACC. COLON 36530",
+        "LAT": -101.3400967,
+        "LNG": 20.6574731
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "Salamanca",
+        "NOMBRE": "Armadora",
+        "DIRECCION": "CARRETERA SALAMANCA-IRAPUATO KM. 98+200 4TO. FRACCIONAMIENTO RANCHO CR 36875",
+        "LAT": -101.2351967,
+        "LNG": 20.5949603
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "León ",
+        "NOMBRE": "Brisas",
+        "DIRECCION": "PORTICO NO. 101 INDUSTRIAL LAS BRISAS 00000",
+        "LAT": -101.6247595,
+        "LNG": 21.1125338
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "León ",
+        "NOMBRE": "Trigo",
+        "DIRECCION": "BLVD.ADOLFO LOPEZ MATEOS 1002 OTE CP.37260,COL.EL COECILLO",
+        "LAT": -101.6690562,
+        "LNG": 21.11963
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "Lagos de Moreno, Jalisco",
+        "NOMBRE": "Los Nardos",
+        "DIRECCION": "CARR.LAGOS-LEON KM 354-460 #5000, EJIDO LA MOYA",
+        "LAT": -101.8826042,
+        "LNG": 21.3177971
+    },
+    {
+        "PLAZA": "Queretaro",
+        "MUNICIPIO": "Queretaro",
+        "NOMBRE": "Martir",
+        "DIRECCION": "BLVD.BERNARDO QUINTANA 2402-A, COL. EL ARCANGEL",
+        "LAT": -100.4536309,
+        "LNG": 20.6182604
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "León ",
+        "NOMBRE": "Obelisco",
+        "DIRECCION": "BLVD.VICENTE VALTIERRA #2602,COL.EL COECILLO,CP. 37390",
+        "LAT": -101.6586295,
+        "LNG": 21.1297826
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "León ",
+        "NOMBRE": "Alonso Espino",
+        "DIRECCION": "BLVD.TORRES LANDA #101,COL.INDUSTRIAL JUAREZ CP. 37457 ",
+        "LAT": -101.6895543,
+        "LNG": 21.1031278
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Bernardo Reyes",
+        "DIRECCION": "Av.Colon No.100 Ote.Esq. Bernardo Reyes,Central,Monterrey,Nuevo Leon",
+        "LAT": -100.322866,
+        "LNG": 25.686334
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Simon Bolivar",
+        "DIRECCION": "AV. SIMON BOLIVAR #2185 ESQ. RUIZ CORTINEZ COL. MITRAS CENTRO",
+        "LAT": -100.2027,
+        "LNG": 25.4215
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Terminal",
+        "DIRECCION": "AV. AZTLAN 9300 ESQ. DE LA HUERTA UNIDAD SAN BERNABE IV SECTOR MONTERREY.",
+        "LAT": -100.222,
+        "LNG": 25.4544
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Rayon",
+        "DIRECCION": "EMILIANO ZAPATA No. 207  ESQ. CALLE RAYÓN MONTERREY N.L.",
+        "LAT": -100.2141,
+        "LNG": 25.4205
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Moctezuma",
+        "DIRECCION": "AV. RODRIGO GOMEZ No. 6000 ESQ. LAS PLANICIES COL MOCTEZUMA",
+        "LAT": -100.2033,
+        "LNG": 25.4407
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Escobedo",
+        "NOMBRE": "Villas de Escobedo",
+        "DIRECCION": "AV. RAUL SALINAS LOZANO NUM. 300 COL. VILLAS DE ESCOBEDO",
+        "LAT": -100.1901,
+        "LNG": 25.4638
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Jaumave",
+        "DIRECCION": "PROLONGACION RUIZ CORTINES No. 723 PTE COL. MITRAS NORTE",
+        "LAT": -100.2121,
+        "LNG": 25.4228
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Lincoln III",
+        "DIRECCION": "AV. LINCOLN No295 COL. MITRAS NORTE MONTERREY",
+        "LAT": -100.2046,
+        "LNG": 25.4245
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Juarez",
+        "NOMBRE": "Garza Ayala",
+        "DIRECCION": "ARTURO B. DE LA GARZA L-2M-9 #408 JUAREZ N.L.",
+        "LAT": -100.0547,
+        "LNG": 25.3846
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Garcia",
+        "NOMBRE": "Parque Aluminio",
+        "DIRECCION": "LIBRAMIENTO NORESTE 3.875 EN GARCIA, N.L.",
+        "LAT": -100.3205,
+        "LNG": 25.4338
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Garcia",
+        "NOMBRE": "Parque Las Américas",
+        "DIRECCION": "CARR A GARCIA KM6 PUERTO DURAZNO GARCIA, NL.",
+        "LAT": -100.314,
+        "LNG": 25.4453
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Escobedo",
+        "NOMBRE": "Cedis",
+        "DIRECCION": "AV. BOULEVARD BENITO JUAREZ NO. 511 S/C ESCOBEDO NUEVO LEON",
+        "LAT": -100.1707,
+        "LNG": 25.465
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Jimenez",
+        "DIRECCION": "JIMENEZ #957 COLONIA CENTRO EN MONTERREY N.L.",
+        "LAT": -100.1858,
+        "LNG": 25.41
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Guadalupe",
+        "NOMBRE": "Las Quintas",
+        "DIRECCION": "BLVD. MIGUEL DE LA MADRID # 3900, COL. JARDINES DE SAN RAFAEL, GUADALUPE, N.L.",
+        "LAT": -100.125,
+        "LNG": 25.4136
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Escobedo",
+        "NOMBRE": "Treviño",
+        "DIRECCION": "AV.  BENITO JUAREZ NO.300-A COL. LAZARO CARDENAS ESCOBEDO",
+        "LAT": -100.1806,
+        "LNG": 25.4707
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Aaron Saenz",
+        "DIRECCION": "AV. ARON SAENZ 1349 ESQ. PRIV. ARNULFO GARZA MONTERREY, N.L.",
+        "LAT": -100.2217,
+        "LNG": 25.4029
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "San Nicolas de los Garza",
+        "NOMBRE": "Termoelectrica",
+        "DIRECCION": "ANT. CARRT. A ROMA No. 8001 ENTRE ENTRONQUE CON MEZQUITAL COL MEZQUITAL APODACA N.L. CP 66630",
+        "LAT": -100.1418,
+        "LNG": 25.4423
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Cadereyta",
+        "NOMBRE": "Cadereyta",
+        "DIRECCION": "CARRETERA CADEREYTA-REYNOSA KM. 27, CADEREYTA JIMÉNEZ, N.L. C.P. 67480",
+        "LAT": -100.0142,
+        "LNG": 25.3557
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Luis Mora",
+        "DIRECCION": "AV. VICENTE GUERRERO 1216 ESQ. LUIS MORA  COL. SARABIA C.P. 64490 MONTERREY",
+        "LAT": -100.184,
+        "LNG": 25.4112
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Guadalupe",
+        "NOMBRE": "Israel Cavazos",
+        "DIRECCION": "JARDINES DE LA SILLA No. 301 COL. VALLES DE SAN ROQUE GUADALUPE N.L. C.P. 67180",
+        "LAT": -100.1119,
+        "LNG": 25.3858
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Regina",
+        "DIRECCION": "UNIVERSIDAD #498 Y MARIANO SALAS, COL. REGINA, MONTERREY, N.L.",
+        "LAT": -100.185,
+        "LNG": 25.4222
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "San Nicolas de los Garza",
+        "NOMBRE": "Valle Sol",
+        "DIRECCION": "AV. MORENITA MIA N° 100 A COL. VALLE SOL, SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN",
+        "LAT": -100.1643,
+        "LNG": 25.4612
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Alfareros",
+        "DIRECCION": "Av. Lazaro Cardenas Esq. Alfareros No. 1590,Alfareros,Monterrey,Nuevo Leon",
+        "LAT": -100.3110512,
+        "LNG": 25.6371563
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Calzada Victoria",
+        "DIRECCION": "Av. Alfonso Reyes Y Calz. Victoria,.,Monterrey,Nuevo Leon",
+        "LAT": -100.3167078,
+        "LNG": 25.689426
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Garza Sada",
+        "DIRECCION": "Av. Eugenio Garza Sada No. 220,Roma,Monterrey,Nuevo Leon",
+        "LAT": -100.2928915,
+        "LNG": 25.655419
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Asarco",
+        "DIRECCION": "Francisco Marquez # 450,Obrera,Monterrey,Nuevo Leon",
+        "LAT": -100.2908404,
+        "LNG": 25.6765096
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Escobedo",
+        "NOMBRE": "Raul Salinas",
+        "DIRECCION": "Av. Raul Salinas # 714,Felipe Carrillo,General Escobedo,Nuevo Leon",
+        "LAT": -100.3250058,
+        "LNG": 25.7906728
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Guadalupe",
+        "NOMBRE": "Churubusco",
+        "DIRECCION": "Prolong. Francisco I. Madero # 4510,Francisco I. Madero,Guadalupe,Nuevo Leon",
+        "LAT": -100.2639955,
+        "LNG": 25.6867836
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Guadalupe",
+        "NOMBRE": "San Rafael",
+        "DIRECCION": "Avenida San Rafael No. 96,Riberas De La Purisima,Guadalupe,Nuevo Leon",
+        "LAT": -100.2321509,
+        "LNG": 25.6949369
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Escobedo",
+        "NOMBRE": "Sendero",
+        "DIRECCION": "Blvd. Lopez Portillo # 90,S/C,General Escobedo,Nuevo Leon",
+        "LAT": -100.2905683,
+        "LNG": 25.7691715
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Apodaca",
+        "NOMBRE": "Bascula",
+        "DIRECCION": "Blvd. Lopez Portillo #90,S/C,Apodaca,Nuevo Leon",
+        "LAT": -100.254229,
+        "LNG": 25.835951
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Santa Catarina",
+        "NOMBRE": "H.T. II",
+        "DIRECCION": "Carretera Monterrey-Saltillo # 1300-1,S/C,Santa Catarina,Nuevo Leon",
+        "LAT": -100.4688284,
+        "LNG": 25.6855829
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Solidaridad",
+        "DIRECCION": "Av. Solidaridad Pte. R. Frias Y 5 Ene 7070 16 Sep.,.,Monterrey,Nuevo Leon",
+        "LAT": -100.3456819,
+        "LNG": 25.7298504
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Guadalupe",
+        "NOMBRE": "Acapulco",
+        "DIRECCION": "Av. Acapulco Esq. Av.Malvinas, Guadalupe,Nuevo Leon",
+        "LAT": -100.2028743,
+        "LNG": 25.7218201
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Guadalupe",
+        "NOMBRE": "Tauro",
+        "DIRECCION": "Av. Ruiz Cortinez # 1400-A,Nueva Linda Vista,Guadalupe,Nuevo Leon",
+        "LAT": -100.2318518,
+        "LNG": 25.702905
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "San Nicolas de los Garza",
+        "NOMBRE": "Lopez Mateos",
+        "DIRECCION": "Av. Lopez Mateos # 205,Lagrange,San Nicolas De Los Garza,Nuevo Leon",
+        "LAT": -100.2586244,
+        "LNG": 25.7257269
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Ruiz Cortinez 2",
+        "DIRECCION": "Av. Ruiz Cortinez No.550,Mitras Centro,Monterrey,Nuevo Leon",
+        "LAT": -100.3473586,
+        "LNG": 25.7035693
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Ruiz Cortinez 1",
+        "DIRECCION": "Av.A.Ruiz Cortinez No.3505,Mitras Norte,Monterrey,Nuevo Leon",
+        "LAT": -100.3473476,
+        "LNG": 25.7046974
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "El Uro",
+        "DIRECCION": "Carretera Nacional 4288-A,Excomunidad De La Estanzuela,Monterrey,Nuevo Leon",
+        "LAT": -100.2390308,
+        "LNG": 25.5660931
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Allende",
+        "NOMBRE": "Allende",
+        "DIRECCION": "Niños Heroes No. 400,Centro Sur,Allende,Nuevo Leon",
+        "LAT": -100.0168892,
+        "LNG": 25.2753612
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Cañon de la Sierra",
+        "DIRECCION": "Carretera Nacional Km. 263 No. 6250-A,Los Cristales,Monterrey,Nuevo Leon",
+        "LAT": -100.2184838,
+        "LNG": 25.5359086
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Tres Rios",
+        "DIRECCION": "Av. Revolucion No.3941,Villa Del Rio,Monterrey,Nuevo Leon",
+        "LAT": -100.2717478,
+        "LNG": 25.6359312
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Juarez",
+        "NOMBRE": "La Morena",
+        "DIRECCION": "Carretera A Reynosa Km 298 No. 106-A,Colinas De San Juan,Juarez,Nuevo Leon",
+        "LAT": -100.0866031,
+        "LNG": 25.6379102
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Apodaca",
+        "NOMBRE": "Camino al Milagro",
+        "DIRECCION": "Av. Camino Real A Santa Rosa #500-A Esq.Cartagena,Hacienda El Mezquital,Apodaca,Nuevo Leon",
+        "LAT": -100.2386751,
+        "LNG": 25.7674925
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Linares",
+        "NOMBRE": "Linares",
+        "DIRECCION": "Av.Hidalgo No.985-A Entre Libram. Mty-Victoria,Centro,Linares,Nuevo Leon",
+        "LAT": -99.57115250000001,
+        "LNG": 24.8498736
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Guadalupe",
+        "NOMBRE": "Escamilla",
+        "DIRECCION": "Av. Constituyentes De Nuevo Leon No. 103,Escamilla,Guadalupe,Nuevo Leon",
+        "LAT": -100.2600551,
+        "LNG": 25.6961539
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Guadalupe",
+        "NOMBRE": "Dos Rios",
+        "DIRECCION": "Camino A Las Escobas No.1614-A,Dos Rios,Guadalupe,Nuevo Leon",
+        "LAT": -100.1674425,
+        "LNG": 25.6806335
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "San Nicolas de los Garza",
+        "NOMBRE": "Miguel Aleman",
+        "DIRECCION": "Av. Miguel Aleman #1866,S/C,San Nicolas De Los Garza,Nuevo Leon",
+        "LAT": -100.2110948,
+        "LNG": 25.7301681
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Guadalupe",
+        "NOMBRE": "Linda Vista",
+        "DIRECCION": "Av. Miguel Aleman Numero 5391-A,La Purisima,Guadalupe,Nuevo Leon",
+        "LAT": -100.2381225,
+        "LNG": 25.6949812
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Apodaca",
+        "NOMBRE": "Kronos",
+        "DIRECCION": "Av. Miguel Aleman No. 300,Centro,Apodaca,Nuevo Leon",
+        "LAT": -100.1832837,
+        "LNG": 25.7779524
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Santa Catarina",
+        "NOMBRE": "Clouthier",
+        "DIRECCION": "Av. Manuel J. Clouthier S/N,San Humberto,Santa Catarina,Nuevo Leon",
+        "LAT": -100.4368985,
+        "LNG": 25.6841614
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Guadalupe",
+        "NOMBRE": "Eloy Cavazos",
+        "DIRECCION": "Av. Eloy Cavazos No.7840-1,Rincon De La Sierra,Guadalupe,Nuevo Leon",
+        "LAT": -100.1883518,
+        "LNG": 25.6483463
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Apodaca",
+        "NOMBRE": "Villas de Huinalá",
+        "DIRECCION": "Carrt. Huinala # 398,Villas De Huinala,Apodaca,Nuevo Leon",
+        "LAT": -100.194695,
+        "LNG": 25.7462156
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Guadalupe",
+        "NOMBRE": "Palacio Federal",
+        "DIRECCION": "Av. Benito Juarez S/N,Centro,Guadalupe,Nuevo Leon",
+        "LAT": -100.2654617,
+        "LNG": 25.6774688
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Apodaca",
+        "NOMBRE": "Autopista",
+        "DIRECCION": "Autop. Al Aeropuerto Y Carr. Monterrey-Caderey.700,S/C,Apodaca,Nuevo Leon",
+        "LAT": -100.1417655,
+        "LNG": 25.6994718
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Zuazua",
+        "NOMBRE": "Zuazua",
+        "DIRECCION": "Carretera General Zuazua S/N,Fraccionamiento Real De Palmas,General Zuazua,Nuevo Leon",
+        "LAT": -100.1612163,
+        "LNG": 25.9059836
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Cigarrera",
+        "DIRECCION": "Av. Francisco I. Madero No. 2886,Mitras Sur,Monterrey,Nuevo Leon",
+        "LAT": -100.3412621,
+        "LNG": 25.6871403
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Guadalupe",
+        "NOMBRE": "Chapultepec",
+        "DIRECCION": "Av. Chapultepec No. 2700,Valle De Chapultepec,Guadalupe,Nuevo Leon",
+        "LAT": -100.268493,
+        "LNG": 25.6660703
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Santa Catarina",
+        "NOMBRE": "Perimetral",
+        "DIRECCION": "Ave. Perimetral Norte No. 103-A,Mision De Santa Catarina,Santa Catarina,Nuevo Leon",
+        "LAT": -100.4543103,
+        "LNG": 25.696908
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Apodaca",
+        "NOMBRE": "Huinalá",
+        "DIRECCION": "Av. Del Telefono No. 113,Padilla,Apodaca,Nuevo Leon",
+        "LAT": -100.1825894,
+        "LNG": 25.7469863
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Santa Catarina",
+        "NOMBRE": "Virgilio",
+        "DIRECCION": "Av. Miguel Aleman S/N,Enrique Rangel,Santa Catarina,Nuevo Leon",
+        "LAT": -100.4577696,
+        "LNG": 25.6623803
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "San Pedro",
+        "NOMBRE": "Vasconcelos",
+        "DIRECCION": "Av. Jose Vasconcelos No. 667,Centro,San Pedro Garza Garcia,Nuevo Leon",
+        "LAT": -100.3983256,
+        "LNG": 25.6606958
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Guadalupe",
+        "NOMBRE": "Jardines de la Silla",
+        "DIRECCION": "Av. Acueducto No. 300,Jardines De La Silla,Guadalupe,Nuevo Leon",
+        "LAT": -100.184908,
+        "LNG": 25.6438752
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Apodaca",
+        "NOMBRE": "Mezquital",
+        "DIRECCION": "Avenida Mezquital-Santa Rosa No. 4950,S/C,Apodaca,Nuevo Leon",
+        "LAT": -100.2255148,
+        "LNG": 25.7807438
+    },
+    {
+        "PLAZA": "Leon",
+        "MUNICIPIO": "León",
+        "NOMBRE": "PUMA",
+        "DIRECCION": "BLVD. HIDALGO S/N COL. FRACCIONES DE ECHEVESTE",
+        "LAT": -101.394889,
+        "LNG": 21.105388
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Felix U Gomez",
+        "DIRECCION": "Av. Felix U. Gomez No. 2820,Moderna,Monterrey,Nuevo Leon",
+        "LAT": -100.2945993,
+        "LNG": 25.6984786
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Fleteros",
+        "DIRECCION": "Av. San Jeronimo # 1001,S/D,Monterrey,Nuevo Leon",
+        "LAT": -100.3630591,
+        "LNG": 25.6750328
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Apodaca",
+        "NOMBRE": "Valle del Salduero",
+        "DIRECCION": "Carretera Santa Rosa-Apodaca No. 200,Fracc. Valle Del Salduero,Apodaca,Nuevo Leon",
+        "LAT": -100.2162939,
+        "LNG": 25.8143869
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Escobedo",
+        "NOMBRE": "Libramiento Noreste",
+        "DIRECCION": "Carretera Saltillo Monterrey - Tramo Libramiento,Km. 28+700,General Escobedo,Nuevo Leon",
+        "LAT": -100.3193548,
+        "LNG": 25.8219358
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Leones",
+        "DIRECCION": "Av. Paseo De Los Leones No. 1239,Cumbres 1er. Sector,Monterrey,Nuevo Leon",
+        "LAT": -100.3571781,
+        "LNG": 25.6971512
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Guadalupe",
+        "NOMBRE": "Valle de Guadalajara",
+        "DIRECCION": "Av. Maestro Israel Cavazos Garza 335,Fracc. Privadas De San Miguel,Guadalupe,Nuevo Leon",
+        "LAT": -100.1668073,
+        "LNG": 25.7038782
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Constitución",
+        "DIRECCION": "Av. Constitución #3908, Churubusco, Monterrey, Nuevo León",
+        "LAT": -100.2655821,
+        "LNG": 25.682449
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Luis Donaldo Colosio",
+        "DIRECCION": "Av. Luis Donaldo Colosio #311 , Barrio Chapultepec, Cd. Solidaridad, Monterrey, Nuevo León",
+        "LAT": -100.4027867,
+        "LNG": 25.7627054
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Juarez",
+        "NOMBRE": "McAllen",
+        "DIRECCION": "Autopista Monterrey - Reynosa Km. 33.7, S/C, Cadereyta Jimenez, Nuevo León",
+        "LAT": -99.97152469999999,
+        "LNG": 25.6014837
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Escobedo",
+        "NOMBRE": "Carr. Monclova",
+        "DIRECCION": "Carretera Monterrey - Laredo No. 1701,Sc,General Escobedo,Nuevo Leon",
+        "LAT": -100.2853675,
+        "LNG": 25.8025764
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Apodaca",
+        "NOMBRE": "Estardo Guajardo",
+        "DIRECCION": "Av. Reforma No. 800 Pte.,.,Apodaca,Nuevo Leon",
+        "LAT": -100.1973181,
+        "LNG": 25.7810479
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Escobedo",
+        "NOMBRE": "Libramiento 2",
+        "DIRECCION": "Carretera Libramiento Noreste 3700, SC, General Escobedo, N.L.",
+        "LAT": -100.3193548,
+        "LNG": 25.8219358
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Apodaca",
+        "NOMBRE": "Hacienda Huinalá",
+        "DIRECCION": "Carretera Huinala - Dulces Nombres No.300, Apodaca, Nuevo León",
+        "LAT": -100.1569591,
+        "LNG": 25.7393115
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Juarez",
+        "NOMBRE": "Santa María",
+        "DIRECCION": "Carretera Monterrey - Reynosa km. 13, SC, Juarez, Nuevo León",
+        "LAT": -100.1472076,
+        "LNG": 25.659847
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Guadalupe",
+        "NOMBRE": "Real de Minas",
+        "DIRECCION": "Av. Ruiz Cortines Ote. No. 4590, Fraccionamiento Real de Minas, Guadalupe, Nuevo León",
+        "LAT": -100.2574787,
+        "LNG": 25.7028617
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Apodaca",
+        "NOMBRE": "Aeropuerto II",
+        "DIRECCION": "Carretera Monterrey-Miguel Alemán km 22.8, Centro, Apocada, Nuevo León",
+        "LAT": -100.1459572,
+        "LNG": 25.789062
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Guadalupe",
+        "NOMBRE": "La Silla II",
+        "DIRECCION": "Av. México No. 7601, Fracc. Parque industrial La Silla, Guadalupe, Nuevo León",
+        "LAT": -100.1778069,
+        "LNG": 25.6531492
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Estanzuela",
+        "DIRECCION": "Carretera Nacional km 269, SC, Monterrey, Nuevo León",
+        "LAT": -100.2387464,
+        "LNG": 25.5653111
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Guadalupe",
+        "NOMBRE": "De la Madrid II",
+        "DIRECCION": "Acceso km 9+200 Autopista Monterrey-Cadereyta, SC, Guadalupe, Nuevo León",
+        "LAT": -100.1840394,
+        "LNG": 25.6933
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Apodaca",
+        "NOMBRE": "La Chona",
+        "DIRECCION": "Carr. Miguel Alemán, Km. 14 + 920, Apodaca, Nuevo León.",
+        "LAT": -100.2041052,
+        "LNG": 25.7350685
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Guadalupe",
+        "NOMBRE": "Empresario",
+        "DIRECCION": "Av. Ruiz Cortines Num 2001, Guadalupe N.L",
+        "LAT": -100.1778628,
+        "LNG": 25.7067186
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Cd. Deportiva",
+        "DIRECCION": "Prolongación Francisco I. Madero No. 4345-A Col. Fierro, Mty, N.l.",
+        "LAT": -100.2682683,
+        "LNG": 25.68608
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Rodrigo Gomez",
+        "DIRECCION": "Av. Rodrigo Gomez No. 1445 Col. Central",
+        "LAT": -100.3419813,
+        "LNG": 25.7166314
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "San Nicolas de los Garza",
+        "NOMBRE": "Uniflor",
+        "DIRECCION": "Calzada Union 230-A Col. Hacienda Los Morales San Nicolas",
+        "LAT": -100.2356291,
+        "LNG": 25.7174508
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Guadalupe",
+        "NOMBRE": "Los Lermas",
+        "DIRECCION": "Av. Benito Juarez Esq. Av. Central, Guadalupe, NL",
+        "LAT": -100.1914842,
+        "LNG": 25.6745887
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Juarez",
+        "NOMBRE": "Cerro de la Silla",
+        "DIRECCION": "Carretera Monterrey Reynosa No. 5480",
+        "LAT": -100.1867021,
+        "LNG": 25.671698
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Garcia",
+        "NOMBRE": "Loma de Garcia",
+        "DIRECCION": "Heriberto Castillo Num. 1000 García, N.L. ",
+        "LAT": -100.578062,
+        "LNG": 25.7828169
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Aldama",
+        "NOMBRE": "Aldama",
+        "DIRECCION": "Pedro J. Mendez Num. 919 Poniente S/C ",
+        "LAT": -98.0793942,
+        "LNG": 22.9232163
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Hidalgo",
+        "NOMBRE": "Hidalgo",
+        "DIRECCION": "Carretera a Monclova km25 y Porfirio Diaz Num. 203 nte Col. Centro Hgo.",
+        "LAT": -100.4417853,
+        "LNG": 25.9741604
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Juarez",
+        "NOMBRE": "Carr. Villa de Juarez",
+        "DIRECCION": "Carr. Huinala-Villa de Juarez No. 300 Apodaca, N.L.",
+        "LAT": -100.1323877,
+        "LNG": 25.7195094
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Juarez",
+        "NOMBRE": "América",
+        "DIRECCION": "Av. San Roque 103 Fracc. América Unida, Cd. Benito Juarez ",
+        "LAT": -100.1429783,
+        "LNG": 25.6486102
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Laredo",
+        "NOMBRE": "Laredo",
+        "DIRECCION": "Carr. Mty-Nuevo Laredo # 8465 Col. Modulo Industrial America.  Nuevo Laredo, Tmps.",
+        "LAT": -99.53324429999999,
+        "LNG": 27.4209424
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Apodaca",
+        "NOMBRE": "Bosque Real",
+        "DIRECCION": "Corea Esq. Con Av. Bosque Real Col. Bosque Real Dos ",
+        "LAT": -100.2408333,
+        "LNG": 25.7777605
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Villa las Fuentes",
+        "DIRECCION": "Av. Eugenio Garza Sada No. 5911 Col. Villa las Fuentes",
+        "LAT": -100.2698935,
+        "LNG": 25.6108943
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Garcia",
+        "NOMBRE": "Libramiento Mty",
+        "DIRECCION": "Libramiento Noreste No. 8000 Esq. Luis Donaldo Colosio Col. El Puerto del Durazno, García, N.L.",
+        "LAT": -100.5138218,
+        "LNG": 25.7429487
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Garcia",
+        "NOMBRE": "Garcia",
+        "DIRECCION": "Carr. a las Grutas Km 11.1 a Garcia ",
+        "LAT": -100.5672303,
+        "LNG": 25.7761422
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Nacional",
+        "DIRECCION": "Av. Garza Sada 7105-D Salida a Carr. Nacional",
+        "LAT": -100.2624155,
+        "LNG": 25.5972523
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Santa Fe",
+        "DIRECCION": "Av. Penitenciaria 849-A,  Col. Ferrocarrilera, Mty, N.L. Entre Martin Campos y Federico Rendon",
+        "LAT": -100.3365903,
+        "LNG": 25.723236
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Gonzalitos",
+        "DIRECCION": "Av. Gonzalitos 910 Nte  Esquina con Lincoln, Col. Mitras Norte",
+        "LAT": -100.3501458,
+        "LNG": 25.714053
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "San Nicolas de los Garza",
+        "NOMBRE": "Rincón Oriente",
+        "DIRECCION": "Av. Lopez Mateos, No. 4200, Col. Rincon de Oriente, San Nicolás de los Garza, N.L.",
+        "LAT": -100.2481989,
+        "LNG": 25.731801
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Escobedo",
+        "NOMBRE": "Parque Industrial",
+        "DIRECCION": "Av. Raul Lozano #526, Fraccionamiento los Girasoles, Escobedo, N.L.",
+        "LAT": -100.3269241,
+        "LNG": 25.7921501
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Guadalupe",
+        "NOMBRE": "Adolfo Prieto",
+        "DIRECCION": "Av. Ruiz Cortines Num. 241 Col. Nueva Libertad, Guadalupe N.L",
+        "LAT": -100.2497175,
+        "LNG": 25.7037631
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Mina Voladora",
+        "DIRECCION": "Av. Abraham Lincoln No. 6771, Esq. Celso Cepeda Col. Plutarco Elias Calles, Monterrey, N.L.",
+        "LAT": -100.3857712,
+        "LNG": 25.7476972
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Lincoln",
+        "DIRECCION": "Av. Lincoln No. 5797 Esq. Antiguos Ejidatarios, Monterey, N.L.",
+        "LAT": -100.4151695,
+        "LNG": 25.7678752
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Apodaca",
+        "NOMBRE": "Los Alpes ",
+        "DIRECCION": "Carr. Mezquital Santa Rosa No 100, Esq. Camino Mezquital, Apodaca",
+        "LAT": -100.2370655,
+        "LNG": 25.7505741
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Santa Catarina",
+        "NOMBRE": "Anacuas",
+        "DIRECCION": "Carr. Mty-Saltillo km 23.5 Col.Las Aanacuas, Santa Catarina Neuvo Leon",
+        "LAT": -100.4925198,
+        "LNG": 25.6863094
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Linares",
+        "NOMBRE": "Linares II",
+        "DIRECCION": "Blvd. Díaz Ordaz S/N Esq. Av. Marqueta Col. Potrero Santa Teresa  Linares N.L",
+        "LAT": -99.5798803,
+        "LNG": 24.8737065
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Bocanegra",
+        "DIRECCION": "AV. Vicente Guerrero 3730 Esq. Francisco Gonzalez Bocanegra Monterrey, N.L.",
+        "LAT": -100.3082801,
+        "LNG": 25.7134046
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Apodaca",
+        "NOMBRE": "Carr. Salinas",
+        "DIRECCION": "Carr. Salinas Victoria, No. 3096, Apodaca N.L.",
+        "LAT": -100.2529872,
+        "LNG": 25.8771126
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Revolucion",
+        "DIRECCION": "Av. Revolucion No. 5200, col. Contry, Monterrey N.L.",
+        "LAT": -100.2735423,
+        "LNG": 25.6255644
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Juarez",
+        "NOMBRE": "Villa Juarez II",
+        "DIRECCION": "Arturo B. de la Garza No. 1506 Esq. 20 de Septiembre, Villa Juarez N.L.",
+        "LAT": -100.1076345,
+        "LNG": 25.6507766
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Garcia",
+        "NOMBRE": "Rio Pesqueria",
+        "DIRECCION": "Av. Lincoln No. 3000, Garcia, N.L.",
+        "LAT": -100.4624836,
+        "LNG": 25.7835575
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Cenizo",
+        "DIRECCION": "AV. CABEZADA # 1100 BARRIO MIRASOL 2 SECTOR 66072",
+        "LAT": -100.3807036,
+        "LNG": 25.7735554
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Fidel Velázquez",
+        "DIRECCION": "AV. FIDEL VELAZQUEZ # 3234 MITRAS NORTE 64320",
+        "LAT": -100.3460926,
+        "LNG": 25.7164669
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "15 de Mayo",
+        "DIRECCION": "AV. VENUSTIANO CARRANZA SUR NO. 480 MARIA LUISA 64040",
+        "LAT": -100.3324935,
+        "LNG": 25.6744905
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Santiago",
+        "NOMBRE": "Pronto el Barrial",
+        "DIRECCION": "CARRT. NACIONAL KM. 255 NUM. 204 FRACC. CUATRO CAMINOS 67300",
+        "LAT": -100.177769,
+        "LNG": 25.4785253
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "San Nicolas de los Garza",
+        "NOMBRE": "Feliz Galvan II",
+        "DIRECCION": "AV. FELIX GALVAN NO. 600 FIDEL VELAZQUEZ SANCHEZ 66490",
+        "LAT": -100.2516953,
+        "LNG": 25.7153255
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Santa Catarina",
+        "NOMBRE": "Cuahutemoc Norte",
+        "DIRECCION": "AV. CUAUHTEMOC # 1280 RESIDENCIAL CUAUHTEMOC 66360",
+        "LAT": -100.442995,
+        "LNG": 25.6849499
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Santa Catarina",
+        "NOMBRE": "Cuahutemoc Sur",
+        "DIRECCION": "AV.CUAUHTEMOC Y PROL.BLVD.C.T.M. FRACC.RESIDENCIAL CUAUHTEMOC 00000",
+        "LAT": -100.4434719,
+        "LNG": 25.6852142
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Lucio Blanco",
+        "DIRECCION": "AZTLAN # 7113 GRANJA SANITARIA 30523",
+        "LAT": -100.3503411,
+        "LNG": 25.7375739
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "San Nicolas de los Garza",
+        "NOMBRE": "Jorge Treviño",
+        "DIRECCION": "JORGE TREVIºO NO. 689 LAS PALMAS 66430",
+        "LAT": -100.2801493,
+        "LNG": 25.749462
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "San Nicolas de los Garza",
+        "NOMBRE": "Universidad",
+        "DIRECCION": "AV. UNIVERSIDAD NO. 1011 CASA BELLA 66400",
+        "LAT": -100.2959057,
+        "LNG": 25.7589906
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Santiago",
+        "NOMBRE": "Presa de la Boca",
+        "DIRECCION": "CARRT. NACIONAL # 103 EL CERCADO 67320",
+        "LAT": -100.1409,
+        "LNG": 25.4129819
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "San Nicolas de los Garza",
+        "NOMBRE": "Cristina Larralde",
+        "DIRECCION": "AV. CRISTINA LARRALDE NUM. 600 ESQ. SIERRA DE IGUANA FRACC. SAN IGNACIO COL. LAS PUENTES 7o SECTOR SAN NICOLAS DE LOS GARZA",
+        "LAT": -100.2788519,
+        "LNG": 25.7493536
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Simon Bolivar",
+        "DIRECCION": "AV. SIMON BOLIVAR #2185 ESQ. RUIZ CORTINEZ COL. MITRAS CENTRO",
+        "LAT": -100.3405419,
+        "LNG": 25.703952
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Terminal",
+        "DIRECCION": "AV. AZTLAN 9300 ESQ. DE LA HUERTA UNIDAD SAN BERNABE IV SECTOR MONTERREY.",
+        "LAT": -100.3724463,
+        "LNG": 25.7621658
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Rayon",
+        "DIRECCION": "EMILIANO ZAPATA No. 207  ESQ. CALLE RAYÓN MONTERREY N.L.",
+        "LAT": -100.3613438,
+        "LNG": 25.7011114
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Moctezuma",
+        "DIRECCION": "AV. RODRIGO GOMEZ No. 6000 ESQ. LAS PLANICIES COL MOCTEZUMA",
+        "LAT": -100.3427071,
+        "LNG": 25.7353134
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Escobedo",
+        "NOMBRE": "Villas de Escobedo",
+        "DIRECCION": "AV. RAUL SALINAS LOZANO NUM. 300 COL. VILLAS DE ESCOBEDO",
+        "LAT": -100.3176464,
+        "LNG": 25.7771179
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Jaumave",
+        "DIRECCION": "PROLONGACION RUIZ CORTINES No. 723 PTE COL. MITRAS NORTE",
+        "LAT": -100.3557681,
+        "LNG": 25.7077822
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Lincoln III",
+        "DIRECCION": "AV. LINCOLN No295 COL. MITRAS NORTE MONTERREY",
+        "LAT": -100.346096,
+        "LNG": 25.7125691
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Juarez",
+        "NOMBRE": "Garza Ayala",
+        "DIRECCION": "ARTURO B. DE LA GARZA L-2M-9 #408 JUAREZ N.L.",
+        "LAT": -100.0963654,
+        "LNG": 25.6462662
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Saltillo",
+        "NOMBRE": "Periférico",
+        "DIRECCION": "Perif. Luis Echeverria Esq. Blvd. Carranza No. 140,Latinoamericana,Saltillo,Coahuila de Zaragoza",
+        "LAT": -100.9890765,
+        "LNG": 25.4478258
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Saltillo",
+        "NOMBRE": "Coss",
+        "DIRECCION": "Francisco Coss e Hidalgo,.,Saltillo,Coahuila De Zaragoza",
+        "LAT": -100.9938983,
+        "LNG": 25.4317563
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Saltillo",
+        "NOMBRE": "Cárdenas",
+        "DIRECCION": "Av. Presidente Cardenas Y Allende, Saltillo,Coahuila De Zaragoza",
+        "LAT": -100.9976144,
+        "LNG": 25.4307793
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Saltillo",
+        "NOMBRE": "Huertas",
+        "DIRECCION": "Periferico Luis Echeverria No. 1612,Lomas De Lourdes,Saltillo,Coahuila De Zaragoza",
+        "LAT": -100.9945498,
+        "LNG": 25.3893284
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Saltillo",
+        "NOMBRE": "Cereso",
+        "DIRECCION": "Periferico Luis Echeverria Alvarez # 3437,Saltillo 2000,Saltillo,Coahuila De Zaragoza",
+        "LAT": -101.0276304,
+        "LNG": 25.455372
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Saltillo",
+        "NOMBRE": "Pioneros",
+        "DIRECCION": "Blvd. Venustiano Carranza # 5530,Fraccionamiento Las Haciendas,Saltillo,Coahuila",
+        "LAT": -100.9768173,
+        "LNG": 25.4723989
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Saltillo",
+        "NOMBRE": "Maravillas",
+        "DIRECCION": "Carlos Abedrop Davila No. 2780,Las Palmas,Saltillo,Coahuila De Zaragoza",
+        "LAT": -100.9708972,
+        "LNG": 25.4145704
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Saltillo",
+        "NOMBRE": "Forrajes",
+        "DIRECCION": "Blvd. Jesus Valdez Sanchez S/N,Fracc. El Tapanco,Saltillo,Coahuila De Zaragoza",
+        "LAT": -100.952675,
+        "LNG": 25.4423612
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Saltillo",
+        "NOMBRE": "Percherón",
+        "DIRECCION": "Prolongación Otilio Gonzalez No. 2939, Valle Santa Elena, Saltillo, Coahuila",
+        "LAT": -100.9748728,
+        "LNG": 25.4046456
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Arteaga",
+        "NOMBRE": "Cd Universitaria",
+        "DIRECCION": "Blvd. Los Fundadores km 9.1, Labor del Llano, Arteaga, Coahuila de Zaragoza",
+        "LAT": -100.8686751,
+        "LNG": 25.4429669
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Ramos Arizpe",
+        "NOMBRE": "Aeropuerto Ramos",
+        "DIRECCION": "Blvd. Miguel Ramos Arizpe No. 157, Parque industrial, Ramos Arizpe, Coahuila de Zaragoza",
+        "LAT": -100.9379024,
+        "LNG": 25.5418059
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Ramos Arizpe",
+        "NOMBRE": "General Charles",
+        "DIRECCION": "Blvd. Plan de Guadalupe No. 200, Zona Centro, Ramos Arizpe, Coahuila de Zaragoza",
+        "LAT": -100.9488338,
+        "LNG": 25.5393903
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Saltillo",
+        "NOMBRE": "Mirasierra",
+        "DIRECCION": "Blvd. Luis Donaldo Colosio, Num 214  Col Ciudas  Mirasierra Saltillo Coahuila",
+        "LAT": -100.9250449,
+        "LNG": 25.431357
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Saltillo",
+        "NOMBRE": "Los Carlos",
+        "DIRECCION": "Periferico Luis Echavarria Alvarez No. 2252 Col. Ciudad Satelite Norte",
+        "LAT": -101.0097841,
+        "LNG": 25.4558736
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Saltillo",
+        "NOMBRE": "El Rosario",
+        "DIRECCION": "Carretera Los Gonzalez Esquina el Rosario Fracc Santa Susana",
+        "LAT": -100.9544064,
+        "LNG": 25.4542022
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Saltillo",
+        "NOMBRE": "Bellavista",
+        "DIRECCION": "Blvd. Antonio Cardenas No. 1564 Col. Lomas de Chapultepec, Saltillo Coahuila",
+        "LAT": -100.9990485,
+        "LNG": 25.40404
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Concepcion del Oro",
+        "NOMBRE": "Concha del Oro",
+        "DIRECCION": "Carr Saltillo -Zacatecas KM 113 S/C  Concepcion del Oro, Zacatecas",
+        "LAT": -101.3738942,
+        "LNG": 24.6142396
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Galeana",
+        "NOMBRE": "Raíces",
+        "DIRECCION": "Carr. Fed Saltillo - Matehuala km 93600 Col. Jesus Ma Puerto Nopalillos",
+        "LAT": -100.3863262,
+        "LNG": 24.398386
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Saltillo",
+        "NOMBRE": "Villa Ferre",
+        "DIRECCION": "Blvd. Venustiano Carranza No.7625 COL. Los Rodriguez",
+        "LAT": -100.9662706,
+        "LNG": 25.4951288
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Saltillo",
+        "NOMBRE": "Los Rodriguez",
+        "DIRECCION": "Blvd. Los Gonzalez No. 4368 Col. Los Gonzalez",
+        "LAT": -100.9497439,
+        "LNG": 25.4688355
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Saltillo",
+        "NOMBRE": "Echeverría",
+        "DIRECCION": "Periferico Luis Echeverria  #3855 Ote. Esq. Rio Panuco",
+        "LAT": -100.9787502,
+        "LNG": 25.4087088
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Saltillo",
+        "NOMBRE": "Los Valdez",
+        "DIRECCION": "Blvd jesus valdez sanchez 3756 col praderas",
+        "LAT": -100.9585814,
+        "LNG": 25.4412427
+    },
+    {
+        "PLAZA": "Torreón",
+        "MUNICIPIO": "Torreón",
+        "NOMBRE": "Rio Salado",
+        "DIRECCION": "Blvd. Independencia No. 2700 Ote. Y Calle Rio Sala,Las Magdalenas,Torreon,Coahuila de Zaragoza",
+        "LAT": -103.4190814,
+        "LNG": 25.5712873
+    },
+    {
+        "PLAZA": "Torreón",
+        "MUNICIPIO": "Torreón",
+        "NOMBRE": "Ultra Uno",
+        "DIRECCION": "Ave. Francisco Sarabia 845 Col. Villa California, Torreon, Coah. C.P. 27089",
+        "LAT": -103.3840185,
+        "LNG": 25.5404796
+    },
+    {
+        "PLAZA": "Torreón",
+        "MUNICIPIO": "Matamoros",
+        "NOMBRE": "Coyote Dos",
+        "DIRECCION": "Carr. Torreon - Coyote km 21, ejido El Fenix, Municipio Matamoros, Coah C.P. 27450",
+        "LAT": -103.3028385,
+        "LNG": 25.6909386
+    },
+    {
+        "PLAZA": "Torreón",
+        "MUNICIPIO": "Torreón",
+        "NOMBRE": "Rancho Ana",
+        "DIRECCION": "Carr La Union - La Partida 850 ejido Ana Torreon Coah CP 27410",
+        "LAT": -103.3686401,
+        "LNG": 25.5987942
+    },
+    {
+        "PLAZA": "Torreón",
+        "MUNICIPIO": "Torreón",
+        "NOMBRE": "Jacarandas",
+        "DIRECCION": "Calzada Nogales 958 Col Villa Jacarandas Torreon Coah C.P. 27110",
+        "LAT": -103.4422726,
+        "LNG": 25.5720232
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Saltillo",
+        "NOMBRE": "Camino Real",
+        "DIRECCION": "BLVD. LUIS DONALDO COLOSIO NO. 8051 . 25305",
+        "LAT": -100.9268035,
+        "LNG": 25.4418918
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Saltillo",
+        "NOMBRE": "Emilio Arizpe",
+        "DIRECCION": "BLVD. EMILIO ARIZPE DE LA MAZA #2335, COL. LOMAS DEL SUR, SALTILLO, COAHUILA",
+        "LAT": -101.001162,
+        "LNG": 25.220865
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Ramos Arizpe",
+        "NOMBRE": "Bonampak",
+        "DIRECCION": "CALLEINDUSTRIA AGROQUIMICA #890, PARQUE INDUSTRIAL SALTILLO-RAMOS ARIZPE, RAMOS ARIZPE, COAHUILA",
+        "LAT": -101.011935,
+        "LNG": 25.210845
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Saltillo",
+        "NOMBRE": "Santa Elena",
+        "DIRECCION": "BLVD. ANTONIO CARDENAS 7870, RANCHO LA SOLEDAD Y EL REFUGIO, SALTILLO, COAHUILA",
+        "LAT": -100.552269,
+        "LNG": 25.333508
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Saltillo",
+        "NOMBRE": "Los Llanos",
+        "DIRECCION": "BLVD. JESUS VALDES SANCHEZ NO. 254 EL LLANO 25386",
+        "LAT": -100.8937535,
+        "LNG": 25.4456947
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Ramos Arizpe",
+        "NOMBRE": "Misiones",
+        "DIRECCION": "CALZADA SALTO DEL AGUA NO. 1851 QUINTA MANANTIALES 25904",
+        "LAT": -100.9389886,
+        "LNG": 25.5115985
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Parras",
+        "NOMBRE": "El Marquez",
+        "DIRECCION": "BLVD. 16 DE SEPTIEMBRE NO. 601 . 27980",
+        "LAT": -102.1718777,
+        "LNG": 25.4478251
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Torreón",
+        "NOMBRE": "Boulevard",
+        "DIRECCION": "BLVD. MATAMOROS # 5720 LUIS HORACIO SALINAS 27440",
+        "LAT": -103.3839804,
+        "LNG": 25.5346658
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Saltillo",
+        "NOMBRE": "Antonio Cardenas",
+        "DIRECCION": "BLVD. ANTONIO CARDENAS # 2020 BELLAVISTA 25000",
+        "LAT": -101.0008557,
+        "LNG": 25.4002963
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Saltillo",
+        "NOMBRE": "Baluarte",
+        "DIRECCION": "EULALIO GUTIERREZ TREVIÑO NO. 1095 TULIPANES 25204",
+        "LAT": -100.9558502,
+        "LNG": 25.4510599
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Ramos Arizpe",
+        "NOMBRE": "Saucillo",
+        "DIRECCION": "BLVD. CARLOS MORALES #2631 COL. LA GRAN HACIENDA, RAMOS ARIZPE, COAHUILA 25900",
+        "LAT": -100.9437966,
+        "LNG": 25.5308206
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Saltillo",
+        "NOMBRE": "La Lechera",
+        "DIRECCION": "PERIFERICO LUIS ECHEVERRIA  #1950 COL. AVICOLA, SALTILLO, COAHUILA ",
+        "LAT": -100.9714576,
+        "LNG": 25.4329129
+    },
+    {
+        "PLAZA": "Saltillo",
+        "MUNICIPIO": "Saltillo",
+        "NOMBRE": "Emilio Arizpe",
+        "DIRECCION": "BLVD. EMILIO ARIZPE DE LA MAZA #2335, COL. LOMAS DEL SUR, SALTILLO, COAHUILA",
+        "LAT": -101.0026091,
+        "LNG": 25.3695065
+    },
+    {
+        "PLAZA": "Cancun",
+        "MUNICIPIO": "Benito Juarez",
+        "NOMBRE": "Lakin",
+        "DIRECCION": "Carr. Federal Merida-Cancun Km 309",
+        "LAT": -86.9058886,
+        "LNG": 21.1348375
+    },
+    {
+        "PLAZA": "Cancun",
+        "MUNICIPIO": "Benito Juarez",
+        "NOMBRE": "Leona Vicario",
+        "DIRECCION": "Carr. Federal Merida-Cancun km 273",
+        "LAT": -87.1869408,
+        "LNG": 20.9941261
+    },
+    {
+        "PLAZA": "Cancun",
+        "MUNICIPIO": "Isla Mujeres",
+        "NOMBRE": "Isla Mujeres",
+        "DIRECCION": "Blvd. Al Garrafon S/N",
+        "LAT": -86.73703280000001,
+        "LNG": 21.2426703
+    },
+    {
+        "PLAZA": "Cancun",
+        "MUNICIPIO": "Merida",
+        "NOMBRE": "Merida",
+        "DIRECCION": "Av. 39 #433-435, Merida Yucatan",
+        "LAT": -89.58910929999999,
+        "LNG": 20.9809691
+    },
+    {
+        "PLAZA": "Guadalajara",
+        "MUNICIPIO": "Coahuayana de Hidalgo, Michoacan",
+        "NOMBRE": "Tecoman",
+        "DIRECCION": "KM 40 CARRT. TECOMAN-PLAYA AZUL S/D 60800",
+        "LAT": -103.6806354,
+        "LNG": 18.6752659
+    },
+    {
+        "PLAZA": "Guadalajara",
+        "MUNICIPIO": "El Salto",
+        "NOMBRE": "El Salto",
+        "DIRECCION": "KM. 9 CARR.GUADALAJARA-EL SALTO CENTRO 45680",
+        "LAT": -103.1924312,
+        "LNG": 20.5120486
+    },
+    {
+        "PLAZA": "Guadalajara",
+        "MUNICIPIO": "Briseñas, Mich",
+        "NOMBRE": "Briseñas",
+        "DIRECCION": "CARR. BRISEÑAS VISTAHERMOSA KM 1.5",
+        "LAT": -102.33855,
+        "LNG": 20.153685
+    },
+    {
+        "PLAZA": "Cancun",
+        "MUNICIPIO": "Benito Juarez",
+        "NOMBRE": "Alfredo Bonfil",
+        "DIRECCION": "CARRETERA MERIDA-CANCUN SIN 77500",
+        "LAT": -86.9605311,
+        "LNG": 21.1075367
+    },
+    {
+        "PLAZA": "Cancun",
+        "MUNICIPIO": "Mérida",
+        "NOMBRE": "Aeropuerto Mérida",
+        "DIRECCION": "CALLE 21 # 276 X 18, CD. INDUCTRIAL, MERIDA, YUCATAN",
+        "LAT": -89.402013,
+        "LNG": 20.555982
+    },
+    {
+        "PLAZA": "Queretaro",
+        "MUNICIPIO": "Corregidora",
+        "NOMBRE": "Candiles",
+        "DIRECCION": "CAMINO DE LOS CANDILES #13, COL.LOS OLVERA CORREGIDORA, QUERETARO",
+        "LAT": -20.323123,
+        "LNG": 100.255295
+    },
+    {
+        "PLAZA": "Queretaro",
+        "MUNICIPIO": "Corregidora",
+        "NOMBRE": "Panamericana",
+        "DIRECCION": "PASEO DE CONSTITUYENTES #1449 COL.EL PUEBLITO, CORREGIDORA QUERETARO",
+        "LAT": -20.322974,
+        "LNG": 100.255244
+    },
+    {
+        "PLAZA": "Queretaro",
+        "MUNICIPIO": "Corregidora",
+        "NOMBRE": "Pueblito",
+        "DIRECCION": "CARRETERA LIBRE A CELAYA KM.5, COL.EL PUEBLITO, CORREGIDORA QUERETARO",
+        "LAT": -20.330949,
+        "LNG": 100.252434
+    },
+    {
+        "PLAZA": "Cancun",
+        "MUNICIPIO": "Mérida",
+        "NOMBRE": "Estrella",
+        "DIRECCION": "CARR. GDL – CHAPALA KM 20. Tlajomulco de Zuñiga, Mérida",
+        "LAT": -20.275315,
+        "LNG": 103.152739
+    },
+    {
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Blvd. Acapulco",
+        "DIRECCION": "CAMINO DE LOS CANDILES #13, COL.LOS OLVERA CORREGIDORA, QUERETARO",
+        "LAT": -100.165265,
+        "LNG": 25.372024
+    }
+]

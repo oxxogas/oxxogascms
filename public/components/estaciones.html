@@ -1,0 +1,37 @@
+<h2 ng-hide="estaciones[0]">Cargando...</h2>
+<h2 ng-show="estaciones[0]">Estaciones:</h2>
+<ol>
+	<li ng-show="estaciones[0]" ng-repeat="estacion in estaciones">
+		<article>
+			<h3>{{estacion.NOMBRE}} - {{estacion.PLAZA}}</h3>
+			<ul>
+				<li>
+					Plaza:
+					<input ng-model="estacion.PLAZA"></input>
+				</li>
+				<li>
+					Municipio:
+					<input ng-model="estacion.MUNICIPIO"></input>
+				</li>
+				<li>
+					Nombre:
+					<input ng-model="estacion.NOMBRE"></input>
+				</li>
+				<li>
+					Dirección:
+					<textarea ng-model="estacion.DIRECCION" rows="4" cols="50"></textarea>
+				</li>
+				<li>
+					Longitud:
+					<input ng-model="estacion.LNG"></input>
+				</li>
+				<li>
+					Latitus:
+					<input ng-model="estacion.LAT"></input>
+				</li>
+			</ul>
+		</article>
+	</li>
+</ol>
+<button ng-show="estaciones[0]" ng-click="addNew()">Agregar Estación</button>
+<button ng-show="estaciones[0]" ng-click="save()">Guardar Cambios</button>

@@ -1,0 +1,28 @@
+<h2>Autotips:</h2>
+<ol>
+	<li ng-repeat="tip in tips">
+		<article>
+			<h3>{{tip.titulo}}</h3>
+			<ul>
+				<li>
+					<p>Posición:</p>
+					<input ng-model="tip.id"></input>
+				</li>
+				<li>
+					<p>Título:</p>
+					<input ng-model="tip.titulo"></input>
+				</li>
+				<li>
+					<p>Texto:</p>
+					<textarea ng-model="tip.texto" rows="8" cols="50"></textarea>
+				</li>
+				<li>
+					<p>Imagen:</p>
+					<input ng-model="tip.imagen"></input>
+				</li>
+			</ul>
+		</article>
+	</li>
+</ol>
+<button ng-click="addNew()">Agregar Tip</button>
+<button ng-click="save()">Guardar Cambios</button>

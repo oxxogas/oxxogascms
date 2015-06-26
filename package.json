@@ -1,0 +1,16 @@
+{ 
+	"name"			: "oxxogas-ftp_websocket-server",
+	"version"		: "1.0.0",
+	"private"		: true,
+	"dependencies"	: 
+	{ 
+		"serve-static"	: "",
+		"body-parser"	: "",
+		"multer"		: "",
+		"express"		: "",
+		"socket.io"		: "",
+		"jsftp"			: "",
+		"stylus"		: "",
+		"nib"			: ""
+	} 
+}

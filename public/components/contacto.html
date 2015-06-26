@@ -1,0 +1,24 @@
+<h2>Contactos:</h2>
+<ol>
+	<li ng-repeat="contacto in contactos">
+		<article>
+			<h3>{{contacto.id}}</h3>
+			<ul>
+				<li>
+					<p>Región:</p>
+					<input ng-model="contacto.id"></input>
+				</li>
+				<li>
+					<p>Correo 1:</p>
+					<input ng-model="contacto.correo1"></input>
+				</li>
+				<li>
+					<p>Correo 2:</p>
+					<input ng-model="contacto.correo2"></input>
+				</li>
+			</ul>
+		</article>
+	</li>
+</ol>
+<button ng-click="addNew()">Agregar Región</button>
+<button ng-click="save()">Guardar Cambios</button>

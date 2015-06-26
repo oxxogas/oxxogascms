@@ -1,0 +1,32 @@
+[
+    {
+        "id": "01",
+        "titulo": "Encendido correcto de tu auto",
+        "texto": "Para que cualquier vehículo encienda, deben funcionar correctamente los elementos pertenecientes al “Triángulo de Fuego” es decir, aire, combustible y corriente. Si alguno de estos 3 elementos te está fallando, tu carro, no prenderá. Si esto sucede lo más recomendable es hacerle una visita a tu mecánico de confianza.",
+        "imagen": "llave.jpg"
+    },
+    {
+        "id": "02",
+        "titulo": "Mantenimiento de alternador y motor ",
+        "texto": "Si tienes que intentar darle arranque a tu auto más de dos veces antes de que prenda, es probable que la batería haya dejado de dar fuerza suficiente al motor. Posiblemente porque el alternador esté fallando o el motor de arranque esté consumiendo demasiada energía. Si pasa esto con frecuencia te recomendamos llevar tu auto con tu mecánico de confianza.",
+        "imagen": "palanca.jpg"
+    },
+    {
+        "id": "03",
+        "titulo": "Mejorar la vialidad",
+        "texto": "Apliquemos la ley del 'uno y uno' al momento de conducir, es decir, permitir que el otro auto pueda cruzar la calle. Al hacer esto, no sólo nos convertimos en mejores conductores, sino que ayudamos a que el tráfico se haga más fluido y ayudamos a evitar la contaminación.",
+        "imagen": "trafico.jpg"
+    },
+    {
+        "id": "04",
+        "titulo": "Mal uso del clutch",
+        "texto": "En los autos con transmisión manual o estándar, es común que no pisemos a fondo el clutch al realizar cambios, o bien no lo soltamos completamente y conducimos con el clutch a medio recorrido, esta costumbre genera presiones excesivas en los discos del embrague acortando su vida.",
+        "imagen": "clutch.jpg"
+    },
+    {
+        "id": "05",
+        "titulo": "Signos para detectar el desgaste de tu correa de distribución",
+        "texto": "Tu automóvil está expulsando más del escape que lo de costumbre, es difícil de encender tu automóvil, el motor vibra, causando que tu automóvil tiemble, se apaga mientras lo conduces y gira más rápido de lo normal cuando intentas volverlo a encender.",
+        "imagen": "correa.jpg"
+    }
+]
