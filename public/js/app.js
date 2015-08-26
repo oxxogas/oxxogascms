@@ -122,6 +122,30 @@
 			$("#loading")	.addClass("hidden");
 			$scope.sections.titles.push(data.title)
 		});
+		
+		$scope.save	= function(file,data){
+			var newData = {};
+			switch (file) {
+				case "" :
+				break;
+				case "" :
+				break;
+				case "" :
+				break;
+				case "" :
+				break;
+				case "" :
+				break;
+				case "" :
+				break;
+			}
+			newData.file = file;
+			newData.data = data;
+			console.log('_________________');
+			console.log("Saving...");
+			console.log('_________________');
+			socket.emit('save',newData);
+		}
 	});
 // */
 //*

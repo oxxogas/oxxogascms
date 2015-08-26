@@ -1950,5 +1950,102 @@
         "DIRECCION": "CAMINO DE LOS CANDILES #13, COL.LOS OLVERA CORREGIDORA, QUERETARO",
         "LAT": -100.165265,
         "LNG": 25.372024
+    },
+{
+        "PLAZA": "Leon",
+        "MUNICIPIO": "Leon",
+        "NOMBRE": "Las Trojes",
+        "DIRECCION": "BLVD. ANTONIO MADRAZO #1101 COL. LAS TROJES",
+        "LAT": -101.393557,
+        "LNG": 21.082930
+    },
+{
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "San Pedro",
+        "NOMBRE": "Las Torres",
+        "DIRECCION": "AV. LAZARO CARDENAS #2517 SAN PEDRO GARZA GARCIA",
+        "LAT": -100.194640,
+        "LNG": 25.385530
+    },
+{
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Monterrey",
+        "NOMBRE": "Valle Alto",
+        "DIRECCION": "CARR. NACIONAL #2000 COL. VALLE ALTO, MONTERREY, NL",
+        "LAT": -100.153142,
+        "LNG": 25.351412
+    },
+{
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Escobedo",
+        "NOMBRE": "Los Pinos",
+        "DIRECCION": "AV. LAS TORRES #100 COL. NUESTRA SEÑORA DE FATIMA, ESCOBEDO N.L CP. 66057",
+        "LAT": -100.183764,
+        "LNG": 25.465281
+    },
+{
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Apodaca",
+        "NOMBRE": "Zozaya",
+        "DIRECCION": "AV. ACAPULCO #201 FRACC. SAN MIGEUL SECTOR GOLONDRINAS, APODACA NL. CP. 66649",
+        "LAT": -100.104813,
+        "LNG": 25.430979
+    },
+{
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Apodaca",
+        "NOMBRE": "Ébanos",
+        "DIRECCION": "SICOMORO #301 COL. RESIDENCIAL LOS EBANOS NTE. 11, APODACA, NL.",
+        "LAT": -100.140577,
+        "LNG": 25.472865
+    },
+{
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Escobedo",
+        "NOMBRE": "Santa Engracia",
+        "DIRECCION": "AV. SANTA ENGRACIA #127 COL. PRIVADAS DE CAMINO REAL, ESCOBEDO NL. CP. 66064",
+        "LAT": -100.232231,
+        "LNG": 25.482885
+    },
+{
+        "PLAZA": "Monterrey",
+        "MUNICIPIO": "Escobedo",
+        "NOMBRE": "Las Palmas",
+        "DIRECCION": "AV. LAS PALMAS #430 COL. VALLE DE LAS PALMAS 2DO SECTOR, APODACA, NL. CP 66612",
+        "LAT": -100.160023,
+        "LNG": 25.470546
+    },
+{
+        "PLAZA": "Guadalajara",
+        "MUNICIPIO": "Tlajomulco de Zuñiga",
+        "NOMBRE": "Dos Oros",
+        "DIRECCION": "AV. REVOLUCION #10 COL. SAN VICENTE CP. 49999 TLAJOMULCO DE ZUÑIGA JALISCO",
+        "LAT": -103.165403,
+        "LNG": 20.302496
+    },
+{
+        "PLAZA": "Guadalajara",
+        "MUNICIPIO": "Guadalajara",
+        "NOMBRE": "Cristo Rey",
+        "DIRECCION": "GOBERNADOR CURIEL #2177 Y 2163 COL. FERROCARRIL CP. 44610",
+        "LAT": -103.210561,
+        "LNG": 20.384104
+    },
+{
+        "PLAZA": "Guadalajara",
+        "MUNICIPIO": "Zapopan",
+        "NOMBRE": "Autocinema",
+        "DIRECCION": "AV. ALCALDE ESQ. AV PATRIA #32 COL. EL BATAN CP. 45910",
+        "LAT": -103.204074,
+        "LNG": 20.425592
+    },
+{
+        "PLAZA": "Guadalajara",
+        "MUNICIPIO": "Tlajomulco de Zuñiga",
+        "NOMBRE": "El 40",
+        "DIRECCION": "CARRETERA GUADALAJARA-MORELIA KM 36",
+        "LAT": -103.322438,
+        "LNG": 20.261519
     }
+
 ]

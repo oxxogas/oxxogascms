@@ -48,7 +48,12 @@ io.on('connection', function (socket) {
 	webSocket = socket;
 	// Emit test event
 	webSocket.emit('test',		{ result: 'Web Socket OK' });
-	webSocket.emit('socket',	{ socket: this.socket });
+	webSocket.on('save', function(packet){
+		console.log('-------------------------------------------');
+		console.log('Saving '+packet.file);
+		console.log(packet.data);
+		console.log('-------------------------------------------');
+	});
 	// Download from FTP
 	console.log('-------------------------------------------');
 	console.log('Client conected, downloading from FTP');
@@ -144,7 +149,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(multer());
 
 // End Points
-// app.route('/api/add').post(add);
+// app.route('/api/update').post(update);
 
 // Static files server
 app.use(serveStatic('./public'));
